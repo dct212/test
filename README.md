@@ -120,7 +120,12 @@ The repository also contains the following files:
 
 ### Instructions to run
 
-Run the code using `python [Driver.py](http://Driver.py)` and you must see the images and the reports appear in the same folder that you are running the code from.
+Download the code from Github using the following commands
+`git clone https://github.com/paritoshpr/IEM5003Project.git`
+
+Alternately you can simply download a `.zip` file from the [Github Link](https://github.com/paritoshpr/IEM5003Project.git) 
+
+Run the code using `python Driver.py` and you must see the images and the reports appear in the same folder that you are running the code from.
 
 ### Deliverables
 
