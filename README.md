@@ -149,6 +149,8 @@ You must submit 1 single `.pdf` file containing the following images:
 
 Take a look at the [scikit-learn](https://scikit-learn.org/stable/) library available for Python. For statistical testing, take a look at [scipy](https://docs.scipy.org/doc/scipy/reference/stats.html). Depending on your local Python environment, you might need to install various libraries. You can do that using `pip install <library_name>`
 
+For plotting, take a look at [matplotlib](https://matplotlib.org/) or [Seaborn](https://seaborn.pydata.org/).
+
 A popular option is to leverage Anaconda/Miniconda and creating a virtual environment. Please take a look at [https://www.anaconda.com/products/distribution](https://www.anaconda.com/products/distribution) .
 
 💡 **You could run, edit and develop the code in multiple ways. Either you can use an IDE such as [PyCharm](https://www.jetbrains.com/pycharm/), or [Visual Studio](https://visualstudio.microsoft.com/vs/features/python/). You could use a Jupyter notebook to run and edit code.  Or you can use [Google Colab](https://colab.research.google.com/) to run your experiments.**
