@@ -1,5 +1,7 @@
 # IEM 5003 Programming Assignment
 
+A more interactive version of these Instructions are available at this [link](https://www.notion.so/IEM-5003-Programming-Assignment-fb54e36b75fa4b69a1a2eba259ae7249)
+
 ### Code Components
 
 This repository contains code designed to help you finish the Programming Assignment for IEM 5003. It consists of the following folders:
