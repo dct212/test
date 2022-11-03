@@ -131,7 +131,7 @@ Run the code using `python Driver.py` and you must see the images and the report
 
 ### Deliverables
 
-You must submit 1 single `.pdf` file containing the following images:
+You must submit 1 zip file that contains 1 single `.pdf` file containing the following images:
 
 - `ChlorineSulphateScatterPlot.pdf`
 - `CitricAcidBoxPlot.pdf`
@@ -144,7 +144,7 @@ You must submit 1 single `.pdf` file containing the following images:
     - `LinearRegression_sensor_loc.txt`
     - `LinearRegression_wine_quality.txt`
     - `LogisticRegression_wine_quality.txt`
-
+**The zip file must also contain a copy of your code.**
 ### Other Tips and Suggestions
 
 Take a look at the [scikit-learn](https://scikit-learn.org/stable/) library available for Python. For statistical testing, take a look at [scipy](https://docs.scipy.org/doc/scipy/reference/stats.html). Depending on your local Python environment, you might need to install various libraries. You can do that using `pip install <library_name>`
