@@ -1,0 +1,10 @@
+RESULT FOR LINEAR REGRESSION ON sensor_loc data
+Training Data File : data/sensor_loc_train.csv
+Test Data File : data/sensor_loc_test.csv
+The no of variables : 4, no of entries : 78, no of regression coefficients : 5
+R^2 score : 1
+Regression parameters : [a b c d]
+F Score : 1
+Test Statistic : 10
+P-Value : 0.05
+Both tests returned the same result
