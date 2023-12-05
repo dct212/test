@@ -17,7 +17,7 @@ class LogisticRegressor:
 
         self.p = self.k+1
 
-        self.reportfile = open(os.path.join("results","reports","LogisticRegressionReport_{}.txt".format(self.name)), "w")
+        self.reportfile = open(os.path.join("results","reports","LogisticRegressionReport_{}.txt".format(self.name)), "w+")
         self.reportfile.write("RESULT FOR LOGISTIC REGRESSION ON {} data\n".format(self.name))
         self.reportfile.write("Training Data File : {}\n".format(trainfilename))
         self.reportfile.write("Test Data File : {}\n".format(testfilename))
